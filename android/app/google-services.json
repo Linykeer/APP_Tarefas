@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "558674606952",
+    "project_id": "tarefas-55b2a",
+    "storage_bucket": "tarefas-55b2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558674606952:android:5ecc9b2a046d53a7c1b4dd",
+        "android_client_info": {
+          "package_name": "br.com.lasistem.app_tarefas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558674606952-7v1er9ktfjl0ejcduj377q2aeirvv878.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcHbzb9PapGYlLw8ANHTCUwk4JVmD1Zec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558674606952-7v1er9ktfjl0ejcduj377q2aeirvv878.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "558674606952-2s2t54herve990bv4dombofr50mgd85a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.lasistem.appTarefas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
